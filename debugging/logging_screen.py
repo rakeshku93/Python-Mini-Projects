@@ -17,7 +17,6 @@ def factorial(num):
         logging.debug(f"End of factorial calculation for: {num=}")
         return total
 
-
 if __name__ == "__main__":
     # num = int(input("Enter the number: "))
     num = 6
