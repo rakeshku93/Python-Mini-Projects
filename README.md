@@ -1,1 +1,3 @@
-Here I have listed all my mini projects in Python
+# Python-Mini-Projects
+
+This Repo contains the basic Python mini Projects
