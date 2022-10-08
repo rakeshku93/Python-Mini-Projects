@@ -20,5 +20,5 @@ def factorial(num):
 if __name__ == "__main__":
     # num = int(input("Enter the number: "))
     num = 6
-    print(f"{num}! = {factorial(num)}")
+    print(f"Factorial of {num}! = {factorial(num)}")
     logging.debug(f"End of the program.")
